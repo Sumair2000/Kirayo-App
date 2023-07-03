@@ -181,7 +181,8 @@ PORT=
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Sumair2000/Kirayo-App/tree/main/Frontend/snaps/Screenshot_1683057900.png)
+<img src="(https://github.com/Sumair2000/Kirayo-App/tree/main/Frontend/snaps/Screenshot_1683057900.png" width="128"/>
+
 
 
 
