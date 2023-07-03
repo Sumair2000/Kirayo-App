@@ -221,11 +221,12 @@ PORT=
 ### Chats
 
 <p float="left">
-<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057414.png" width="250"/>
+  <img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057357.png" width="250"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057357.png" width="250"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057362.png" width="250"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057414.png" width="250"/>
+
 </p>
 
 ### Product Reservation
