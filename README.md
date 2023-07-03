@@ -188,6 +188,88 @@ PORT=
 <img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057908.png" width="250"/>
 </p>
 
+### Home 
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683055129.png" width="250"/>
+
+### Product Detail
+<p float="left">
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683055147.png" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683055161.png" width="250"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683055308.png" width="250"/>
+</p>
+
+### My products 
+
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057448.png" width="250"/>
+
+### Upload product
+
+<p float="left">
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057456.png" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057653.png" width="250"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057666.png" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057767.png" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057882.png" width="250"/>  
+</p>
+
+### Chats
+
+<p float="left">
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057414.png" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057357.png" width="250"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057362.png" width="250"/>
+</p>
+
+### Product Reservation
+
+<p float="left">
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1684141574.png" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1684141577.png" width="250"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1684141608.png" width="250"/>
+</p>
+
+### Reservation History and Requests
+
+<p float="left">
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1684260776.png" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1684344217.png" width="250"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1684344220.png" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1684344227.png" width="250"/>
+</p>
+
+### Feedback
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1684245087.png" width="250"/>
+
+
+### Favourites
+
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1684344337.png" width="250"/>
+
+### User profile
+
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057418.png" width="250"/>
+
+
+### Terms and Conditions
+<img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057904.png" width="250"/>
+
+
+
+
+
 
 
 
