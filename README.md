@@ -184,6 +184,7 @@ PORT=
 ### Login and Registration
 <p float="left">
 <img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057900.png" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Sumair2000/Kirayo-App/blob/main/Frontend/snaps/Screenshot_1683057908.png" width="250"/>
 </p>
 
